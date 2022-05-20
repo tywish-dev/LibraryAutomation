@@ -1,0 +1,17 @@
+C:\Users\samet\source\repos\LibraryAutomation\LibraryAutomation\bin\Debug\LibraryAutomation.exe.config
+C:\Users\samet\source\repos\LibraryAutomation\LibraryAutomation\bin\Debug\LibraryAutomation.exe
+C:\Users\samet\source\repos\LibraryAutomation\LibraryAutomation\bin\Debug\LibraryAutomation.pdb
+C:\Users\samet\source\repos\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.AssemblyReference.cache
+C:\Users\samet\source\repos\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.SuggestedBindingRedirects.cache
+C:\Users\samet\source\repos\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.AdminLogin.resources
+C:\Users\samet\source\repos\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.AdminPanel.resources
+C:\Users\samet\source\repos\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.CustomerLogin.resources
+C:\Users\samet\source\repos\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.Form1.resources
+C:\Users\samet\source\repos\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.MyOrders.resources
+C:\Users\samet\source\repos\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.OptionSelect.resources
+C:\Users\samet\source\repos\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.Order.resources
+C:\Users\samet\source\repos\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.Properties.Resources.resources
+C:\Users\samet\source\repos\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.GenerateResource.cache
+C:\Users\samet\source\repos\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.CoreCompileInputs.cache
+C:\Users\samet\source\repos\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.exe
+C:\Users\samet\source\repos\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.pdb
